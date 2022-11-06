@@ -1,5 +1,5 @@
 # Recursion
-- Practice in recursive problem solving
+Practice in recursive problem solving
 - factorial
 - sumArray - Sum of all array elements
 - countArray - Counting the number of array elements
